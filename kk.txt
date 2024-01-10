@@ -1,0 +1,2 @@
+orb_features(img1, Keypoints1, descriptions1);
+orb_features(img2, Keypoints2, descriptions2);
